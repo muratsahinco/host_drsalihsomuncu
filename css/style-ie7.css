@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Dropdown Styling */
+#select-iam_dropdown {
+	width:260px !important;
+}
+#select-iam_dropdownlist {
+	width:256px !important;
+}
+#select-helpme_dropdown {
+	width:265px !important;
+}
+#select-helpme_dropdownlist {
+	width:261px !important;
+}
+.col-4 .block .dropdownlist, .col-4 .block .dropdownlist li {
+	width:197px !important;
+}
+.col-2 .block .dropdownlist, .col-2 .block .dropdownlist li {
+	width:419px !important;
+}
+.col-2 .block {
+	width:455px !important;
+}
+.col-1 .block + .last-child, .col-2 .block + .last-child, .col-3 .block + .last-child, .col-4 .block + .last-child {
+	margin-right:0px !important;
+}
+span.go input.submit {
+	top:-3px !important;
+}
+#main-container, .heading, .blood_scale_main_div, .blood_scale_0ne, .blood_scale_bg, .grade_div, .percentage_div, .progess_wraper_div, .progess_wraper_div, #targetperc, .progress_scale, .comments_area .snap img {
+	position:relative;
+}
+.ui-tabs li {
+	width:187px !important;
+	margin-right:3px !important;
+}
+#tab_5 {
+	width:190px !important;
+	margin-right:0px !important;
+}
+.col-4 .block {
+	width:220px !important;
+}
+.col-3 .block {
+	margin-right:8px !important;
+}
+.form li input.text_short {
+	width:46% !important;
+	margin-right:3px !important;
+}
+.form li input.text, .form li textarea {
+	width:99.5% !important;
+}
+.grids .col-3 .block {
+	margin:0 0.3% 10px !important;
+}
+.grids .col-4 .block {
+	width:22.36% !important;
+	margin:0 0.375% 10px !important;
+}
+.table_info li {
+	width:100% !important;
+	display:block !important;
+	float:left !important;
+}
+.table_info_head li.page-title, .table_info li.page-title {
+	width:26% !important;
+}
+.table_info_head li.author, .table_info li.author {
+	width:18% !important;
+}
+#newsletter #formnewsletter input.text {
+	padding-bottom:5px !important;
+}
+#copyrightarea .social-icon li a strong {
+	display:none !important;
+}
+ul.gallery li {
+	background:#fff;
+}
+.list_style li .pic_stats li {
+	border-bottom:1px dotted #ddd !important;
+	border-top:0px !important;
+	border-left:0px !important;
+	border-right:0px !important;
+}
+.contact_bar .right a {
+	padding:7px 13.5px 6px 13.5px !important;
+}
+.contact_bar li.last-child {
+	margin-right:0px !important;
+	padding-right:0 !important;
+	background:none !important;
+}
+.appointment .book {
+	background:#fff url(../images/icon_appointment.png) left top no-repeat !important;
+	border:1px solid #eaeaea !important;
+	margin-top:-1px;
+}
+.appointment .expand {
+	margin-top:4px !important;
+}
+#tc_panel .ui-tabs-nav {
+	display:block;
+	float:left;
+}
+#tc_panel .ui-tabs li {
+	display:block;
+	float:left;
+}
+#tc_panel .ui-tabs li a, #tc_panel .ui-tabs.ui-tabs-collapsible li.ui-tabs-selected a {
+	padding:4px 5px !important;
+}
+/* Common Class for all IEs */
+.breadcrumbs li.last-child a {
+	color:#467ABB;
+}
+.blog_menu li.last-child {
+	border-bottom:0px;
+}
+.contact_bar, .info_bar {
+	margin:5px 0 2px 0;
+	padding:6px 5px 5px 5px;
+}
+.up .snap {
+	background:transparent !important;
+	border:0 none !important;
+}
+.container2 .block {
+	width:305px !important;
+}
+.container2 .last-child {
+	margin-right:0px;
+}
+.accord .block, .blocking .block {
+	width:610px !important;
+}
+#footer .col-1 .block.last-child, #footer .col-2 .block.last-child, #footer .col-3 .block.last-child, #footer .block.last-child {
+	margin:0px !important;
+}
+ 

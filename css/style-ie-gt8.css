@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* Custom Slider 
+//////////////////////// */
+.next_step {
+	font-size:22px !important;
+}
+.custom_slides .startHere {
+	behavior: url(js/PIE.htc);
+	position:relative;
+}
+#select-iam_dropdown, #select-iam_dropdownlist, #select-helpme_dropdownlist {
+	width:265px !important;
+}
+#select-helpme_dropdown, #select-helpme_dropdownlist {
+	width:270px !important;
+}
+#newsletter #formnewsletter input.text {
+	padding-bottom:5px !important;
+}
+.picGal h4 {
+	line-height:16px !important;
+}
+.picGal {
+	margin-bottom:0px !important;
+}
+.list_style li .pic_stats li {
+	padding-bottom:0px;
+}
+.matter .left {
+	width:118px;	
+}
+.breadcrumbs li img {
+	margin-top:6px !important;	
+}
+ 
